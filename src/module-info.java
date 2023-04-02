@@ -1,0 +1,2 @@
+module HackerRank_java {
+}
